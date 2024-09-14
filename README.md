@@ -30,5 +30,5 @@ TDD开发模式，参考了James Shore 网上的 [let's play tdd 课程](https:/
 感谢ThoughtWorks的杨朕，没有他或许我不可能接触到TDD。
 
 appid: test13
-key: 3242fsdsfl
+key: 3242fsdsfl_tot 
 感谢其他ThoughtWorks员工和HR们，整个招聘过程中为准备进入职场的同学们答疑解惑并且还发给我小礼物。
